@@ -28,9 +28,7 @@ class AdressBook:
             return ''.join(seach_list)
         return None
 
-def main():
-    file_name=input()
-    return AdressBook(file_name)
+
 
 
 
