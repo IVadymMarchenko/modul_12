@@ -183,7 +183,7 @@ class ConsoleInterface:
         self.address_book = address_book
 
     def display_menu(self):
-        print("1. Add Contact")
+        print("1. (Add Contact)")
         print("2. Seach contact")
         print("3. Delete Contact")
         print("4. Display All Contacts")
